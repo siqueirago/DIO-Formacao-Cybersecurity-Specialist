@@ -1,4 +1,4 @@
-# Phishing para captura de senhas do Facebook
+# Conscientização e Prevenção de Phishing e Engenharia Social
 ## Objetivo
 Este projeto educacional visa entender as mecânicas dos ataques de phishing e engenharia social para fortalecer as defesas cibernéticas e a conscientização do usuário. O foco é estritamente em prevenção, identificação e mitigação de ameaças, e não em sua execução.
 
