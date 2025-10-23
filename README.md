@@ -27,6 +27,9 @@ Phishing é uma técnica de engenharia social usada por cibercriminosos para eng
 ## Ferramentas para Pentesting e Análise (Uso Ético):
 
 Ferramentas como o **Social-Engineer Toolkit (SEToolkit)** e **Kali Linux** são utilizadas por profissionais de segurança (Pentest/Red Team) para simular ataques em ambientes controlados e com permissão explícita para testar a resiliência da segurança de uma organização e educar funcionários. O uso dessas ferramentas contra qualquer sistema ou indivíduo sem permissão prévia é ilegal.
+## Conclusão
+ A Finalidade dste projeto foi demonstrar a facilidade e a eficácia com que ataques de phishing e de engenharia social podem ser executados, destacando a vulnerabilidade do fator humano no ecossistema de segurança cibernética.
 
+Embora ferramentas como o Kali Linux e o Social-Engineer Toolkit (SEToolkit) ofereçam poderosos recursos para testar a segurança (em um contexto ético de pentesting), o estudo profundo de suas metodologias deve servir a um propósito singular: a defesa.
 
 
