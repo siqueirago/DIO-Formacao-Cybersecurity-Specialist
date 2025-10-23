@@ -28,15 +28,5 @@ Phishing é uma técnica de engenharia social usada por cibercriminosos para eng
 
 Ferramentas como o **Social-Engineer Toolkit (SEToolkit)** e **Kali Linux** são utilizadas por profissionais de segurança (Pentest/Red Team) para simular ataques em ambientes controlados e com permissão explícita para testar a resiliência da segurança de uma organização e educar funcionários. O uso dessas ferramentas contra qualquer sistema ou indivíduo sem permissão prévia é ilegal.
 
-## Configurando o Phishing no Kali Linux
-* Acesso root: sudo su
-* Iniciando o setoolkit: setoolkit
-* Tipo de ataque: Social-Engineering Attacks
-* Vetor de ataque: Web Site Attack Vectors
-* Método de ataque: Credential Harvester Attack Method 
-* Método de ataque: Site Cloner
-* Obtendo o endereço da máquina: ifconfig
-* URL para clone: http://www.facebook.com
 
-## Resultado
 
